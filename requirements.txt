@@ -1,0 +1,11 @@
+distro==1.7.0
+numpy==1.22.3
+opencv-python==3.4.17.63
+packaging==21.3
+pandas==1.4.2
+pyparsing==3.0.7
+python-dateutil==2.8.2
+pytz==2022.1
+scikit-build==0.13.1
+scipy==1.8.0
+six==1.16.0
