@@ -281,9 +281,9 @@ if __name__=='__main__':
 
     # name of source video and paths
     video = 'fish_video'
-    input_vidpath = 'C:/Users/biwares/Desktop/Startup/diegoflowers/diegoflowers/videos/' + video + '.mp4'
-    output_vidpath = 'C:/Users/biwares/Desktop/Startup/diegoflowers/diegoflowers/output/' + video + '_tracked.mp4'
-    output_filepath = 'C:/Users/biwares/Desktop/Startup/diegoflowers/diegoflowers/output/' + video + '_tracked.csv'
+    input_vidpath = 'C:/Users/Usuario/Desktop/diegotracker/diegoflowers/videos/' + video +'.mp4'
+    output_vidpath = 'C:/Users/Usuario/Desktop/diegotracker/diegoflowers/output/' + video + '_tracked.mp4'
+    output_filepath = 'C:/Users/Usuario/Desktop/diegotracker/diegoflowers/output/' + video + '_tracked.csv'
     codec = 'mp4v' # try other codecs if the default doesn't work ('DIVX', 'avc1', 'XVID') note: this list is non-exhaustive
 
     ## Open video
